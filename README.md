@@ -21,7 +21,8 @@ une fois le programme lancé, il créera la table "users" avec tous ses colonnes
 
 bRAVOO!!! 
 
-Application web deployée à l'adresse : ftf-front.netlify.app
+Application web deployée à l'adresse : 
+https://ftf-front.netlify.app/
 
 
 // LTAAF
