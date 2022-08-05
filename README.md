@@ -9,13 +9,13 @@ https://nodejs.org/
  ### cd frontend  et ### cd backend
 ### npm install 
 
-Démarrer le serveur 
+# Démarrer le serveur 
 ### nodemon index
 
-Démarrer la partie frontend
+# Démarrer la partie frontend
 ### npm start
 
-créer une base de données "crud"
+# créer une base de données "crud"
 
 une fois le programme lancé, il créera la table "users" avec tous ses colonnes 
 
@@ -23,7 +23,7 @@ votre application est prête !!!!!
 
 
 
-# LTAAF
-# DCLIC 
-# ENERGY GENERATION 
+-LTAAF
+-DCLIC 
+-ENERGY GENERATION 
 
