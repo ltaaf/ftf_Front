@@ -2,10 +2,10 @@
 Frontend pour la gestion statistiques de joueurs de foot
 
 
-Assurez-vous d'avoir installer node.js sur votre machine, sinon se reférer à 
+# Assurez-vous d'avoir installer node.js sur votre machine, sinon se reférer à 
 https://nodejs.org/
 
- Respectivement dans les repertoires frontend et backend
+ # Respectivement dans les repertoires frontend et backend
  ### cd frontend  et ### cd backend
 ### npm install 
 
