@@ -19,11 +19,12 @@ https://nodejs.org/
 
 une fois le programme lancé, il créera la table "users" avec tous ses colonnes 
 
-votre application est prête !!!!!
+bRAVOO!!! 
+
+Application web deployée à l'adresse : ftf-front.netlify.app
 
 
-
--LTAAF
--DCLIC 
--ENERGY GENERATION 
+// LTAAF
+// DCLIC 
+// ENERGY GENERATION 
 
